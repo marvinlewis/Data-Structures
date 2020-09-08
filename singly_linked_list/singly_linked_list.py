@@ -124,3 +124,5 @@ class LinkedList:
         target.next = None
         self.length = self.length - 1
         return target.value
+
+        #look into this further
